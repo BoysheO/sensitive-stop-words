@@ -1,0 +1,13 @@
+{
+    "name": "com.boysheo.sensitivestopwords",
+    "version": "1.0.0",
+    "displayName": "敏感词库",
+    "description": "收集来的敏感词词库(未经进一步加工、去重）",
+    "keywords": [
+    ],
+    "author": {
+        "name": "BoysheO",
+        "email": "BoysheO@outlook.com",
+        "url": "https://github.com/boysheo/"
+    }
+}
